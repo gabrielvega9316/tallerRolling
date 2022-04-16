@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Stars';
+    src: url('../font/Starjedi.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 { font-family: "Stars"}
